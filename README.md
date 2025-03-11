@@ -1,6 +1,6 @@
 # Explore-Nepal-Tourism-Management-System
 ## Overview
-**Explore Nepal - Tourism Management System ** is a full-stack web-based tourism management system designed to help users explore Nepal’s popular destinations, book trips, and manage travel-related services. The website provides a user-friendly interface for travelers, travel agencies, and administrators.
+Explore Nepal - Tourism Management System  is a full-stack web-based tourism management system designed to help users explore Nepal’s popular destinations, book trips, and manage travel-related services. The website provides a user-friendly interface for travelers, travel agencies, and administrators.
 
 ## Features
 - 🌍 **Destination Listings**: Showcases popular travel destinations in Nepal.
